@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello, GitHub!");
         System.out.println("Ini adalah Codelab 1 Pemrograman Lanjut.");
         System.out.println("Belajar Git dan GitHub menggunakan Java.");
+        System.out.println("Perubahan pertama berhasil dilakukan!");
     }
 }
